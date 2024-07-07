@@ -153,5 +153,7 @@ footer input[type="text"],footer input[type="email"],footer textarea{
     width:100%;
     padding: 10px 20px;
     font-size: 20px;
+    border: none;
+    margin: 10px;
 
 }
